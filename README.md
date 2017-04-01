@@ -1,3 +1,3 @@
 # WSCustomSwitch
 自定义UIswitch
-![image](https://github.com/WSmilec/WSCustomSwitch/blob/master/WSCustomSwitch/customSwitch.gif)
+![image](https://raw.githubusercontent.com/WSmilec/WSCustomSwitch/master/WSCustomSwitch/WSCustomSwitch/customSwitch.gif)
